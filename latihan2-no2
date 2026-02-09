@@ -1,0 +1,10 @@
+dosen = ("D001", "Dr. Andi", "Struktur Data", 12)
+print(dosen[1])
+print(dosen[2])
+
+dosen = ("D001", "Dr. Andi", "Struktur Data", 12)
+for x in dosen:
+    print(x, end=' ; ')
+
+    
+

@@ -1,0 +1,20 @@
+thislist = [75, 80, 65, 90, 85]
+thislist.append (95)
+print(thislist)
+
+thislist = [75, 80, 65, 90, 85]
+thislist.remove (65)
+print(thislist)
+
+thislist.sort()
+print(thislist) 
+
+
+print(thislist[0])
+print(thislist[3])
+
+avg= (thislist[0] + thislist[1] + thislist[2] + thislist[3]) /len(thislist)
+print(avg)
+
+print(thislist)
+
