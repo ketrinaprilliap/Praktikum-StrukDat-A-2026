@@ -4,6 +4,12 @@ _my_var = "ketrin"
 myVar = "ketrin"
 MYVAR = "ketrin"
 myvar2 = "ketrin"
+print(myvar)
+print(my_var)
+print(_my_var)
+print(myVar)
+print(MYVAR)
+print(myvar2)
 
 a = 19
 b = "usia"
@@ -17,6 +23,9 @@ print(c)
 A = int(5)   # A menjadi  5
 B = str(6)   # B menjadi "6"
 C = float(7) # C menjadi 7.0
+print(A)
+print(B)
+print(C)
 
 a, b, c, = "mawar", "melati", "tulip"
 print(a)

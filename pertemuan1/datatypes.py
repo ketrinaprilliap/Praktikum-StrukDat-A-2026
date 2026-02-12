@@ -12,7 +12,6 @@ k = True
 l = b"belajar"
 m = bytearray(8)
 n = memoryview(bytes(6))
-o = None
 print(type(a))
 print(type(b))
 print(type(c))
@@ -27,5 +26,5 @@ print(type(k))
 print(type(l))
 print(type(m))
 print(type(n))
-print(type(o))
+
 
